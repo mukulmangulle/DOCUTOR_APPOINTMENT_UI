@@ -1,0 +1,62 @@
+* {
+        padding: 0%;
+        margin: 0%;
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+        width: 100%;
+        height: 100%;
+}
+
+body {
+        background-color: aliceblue;
+        width: 100%;
+        height: 100%;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: white;
+}
+
+.img-logo {
+        height: 50px;
+}
+
+.card-text {
+        width: 500px;
+}
+
+.text {
+        width: 100%;
+        height: 560px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        color: white
+}
+
+.card-body {
+        width: 500px;
+        height: 400px;
+}
+
+.card-img {
+        width: 560px;
+        height: 560px;
+}
+
+.img-nature {
+        width: 600px;
+        height: 500px;
+}
+
+.icon {
+        margin-top: -60px;
+}
+
+.icon img {
+        width: 35px;
+        margin-right: 10px;
+}
